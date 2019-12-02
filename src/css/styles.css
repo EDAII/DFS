@@ -1,0 +1,100 @@
+.mainDiv {
+  text-align: center;
+  padding-top: 2%;
+}
+.tab {
+  width: 100%;
+}
+
+.line {
+  width: 80%;
+}
+
+.error {
+  color: red;
+}
+
+.edge {
+  width: 40%;
+  height: 50px;
+  font-size: 30px;
+  border-radius: 20px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.startV {
+  border-radius: 20px;
+  text-align: center;
+  border: 1px solid black;
+  margin-right: 10px;
+  width: 100px;
+  height: 40px;
+  font-size: 16px;
+}
+
+.dfs {
+  border: 1 solid black;
+  border-radius: 10px;
+  width: 100px;
+  height: 40px;
+}
+
+.list {
+  list-style: none;
+  text-align: center;
+  width: 800px;
+  margin-left: 20%;
+}
+
+.edge_list {
+  display: inline-block;
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+.list_dfs {
+  list-style: none;
+  text-align: center;
+  width: 600px;
+  margin-left: 25%;
+}
+
+.vertex {
+  display: inline-block;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  font-size: 30px;
+  border: 1px solid black;
+  line-height: 100px;
+  text-align: center;
+  margin-top: 5%;
+
+}
+
+.list_dfs {
+  list-style: none;
+}
+
+.dfs_list {
+  display: inline-block;
+  font-size: 25px;
+  padding-left: 100px;
+  opacity: 0;
+}
+
+.magic {
+  opacity: 1;
+}
+
+.vertex:nth-child(3n+1) {
+  margin-right: 250px;
+  margin-left: 75px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.activeNode {
+  background-color: red;
+}
