@@ -1,4 +1,4 @@
-# Graphical.ly
-Visualization of graph traversal algorithms like bfs, dfs using React, Redux
+# DFS
+Visualização da travessia do algoritmo dfs com React e Redux
 
 ![alt](dfs.gif)
